@@ -19,6 +19,7 @@
   body
   {
     background-color: aqua;
+    text-align: center;
   }
   .heading_div
   {
@@ -28,4 +29,9 @@
     box-shadow:5px 5px 5px grey;
     float: none;
     padding: 10px;
+  }
+
+  .header
+  {
+    float: none;
   }
